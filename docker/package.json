@@ -1,0 +1,12 @@
+{
+  "name": "docker",
+  "version": "1.0.0",
+  "description": "[![Beta Tech](https://betasolutions.tech/assets/img/LogoBeta.png)](https://github.com/Beta-Tech-Costa-Rica/BetaTest)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
